@@ -1,4 +1,0 @@
-
-    *make border for all invdivual boxes in navbar.
-
-    *check if map [box2] is in the middle of navbar and not at the end.
